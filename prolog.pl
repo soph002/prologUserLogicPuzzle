@@ -1,4 +1,3 @@
-% Sophie Halish and Danielle DaSilva
 % Crime Solving Prolog Bot
 
 addItem(Prompt, List, NewList) :-
